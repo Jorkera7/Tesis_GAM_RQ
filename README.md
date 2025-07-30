@@ -1,5 +1,21 @@
-To use these codes, hourly data were used and processed into daily, monthly, and annual formats as needed.
-This code implements Generalized Additive Models (GAM) and Quantile Regression to evaluate trends.
-The data can be obtained from the SINCA website (https://sinca.mma.gob.cl/) by clicking on the monitoring station. There, you'll find all available meteorological and pollutant variables.
-Once you download the data, replace them in the inserted code.
-For any questions or inquiries, feel free to leave a comment or send me an email.
+# Tesis_GAM_RQ
+
+This repository contains code used for evaluating trends in tropospheric ozone using **Generalized Additive Models (GAM)** and **Quantile Regression (RQ)**.
+
+## 📊 Description
+
+Hourly air quality data were processed into daily, monthly, and annual formats to apply the statistical models.  
+The analysis was performed as part of a thesis project focused on air pollution trends.
+
+## 🌐 Data Source
+
+The data were obtained from the SINCA platform (https://sinca.mma.gob.cl/), selecting the desired monitoring station.  
+There, you can access meteorological and pollutant variables.
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jorkera7/Tesis_GAM_RQ.git
+   cd Tesis_GAM_RQ
+
